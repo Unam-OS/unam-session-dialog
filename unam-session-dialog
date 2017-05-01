@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd "$HOME/B00merang/unam OS/Apps/unam-session-dialog"
+cd "/usr/share/unam OS/Apps/unam-session-dialog"
 
 ./unam-session-dialog.py
